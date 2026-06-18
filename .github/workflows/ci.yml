@@ -16,4 +16,4 @@ jobs:
         run: echo "Hello, World!"
 
       - name: Show date
-        run: echo "今日の日付: $(date)"
+        run: echo "今日の日付 $(date)"
